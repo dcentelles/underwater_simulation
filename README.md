@@ -1,4 +1,4 @@
-# UWSim with Network Simulator
+# UWSim-NET: UWSim with Network Simulator
 This is a fork of https://github.com/uji-ros-pkg/underwater_simulation.
 The 'comms' branch intregates a Network Simulator to be used along with the dccomms API. This simulator uses the NS3 libraries and the AquaSim NG as a NS3 module.
 
